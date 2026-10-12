@@ -34,20 +34,4 @@ insurance policy options.
 - Encapsulation
 - Exception Handling and Input Validation
 
-## 📂 Project Structure
 
-```text
-InsuranceManagement/
-├── src/
-│   ├── com/
-│   │   └── hms/
-│   │       ├── Insurance.java
-│   │       ├── HealthInsurance.java
-│   │       ├── HomeInsurance.java
-│   │       ├── LifeInsurance.java
-│   │       ├── VehicleInsurance.java
-│   │       ├── Validation.java
-│   │       └── Main.java
-│   └── module-info.java
-├── .gitignore
-└── README.md
